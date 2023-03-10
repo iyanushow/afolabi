@@ -488,10 +488,7 @@ body {
 	font-weight: 700;
 }
 
-.Company_text {
-}
-
-.project-card .image-overlay-text:hover {
+.project-card:hover .image-overlay-text {
 	color: #fff;
 	padding-top: 40px;
 	padding-left: 40px;
@@ -743,6 +740,11 @@ body {
 	top: 15%;
 	right: -3%;
 	transform-origin: left center;
+}
+.case_img_wrapper img {
+	width: 100%;
+	max-width: 370px;
+	height: 250px;
 }
 
 .case_overview_left {
