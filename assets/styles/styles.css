@@ -566,6 +566,7 @@ body {
 .box {
 	margin: 10px;
 	height: auto;
+	text-align: justify;
 }
 
 .big {
@@ -843,12 +844,16 @@ body {
 }
 
 footer {
-	padding: 60px 0 0;
+	padding: 40px 0 0;
 	text-align: center;
 }
 footer p {
-	background: #0e0e0e;
+	background: #b4b4b478;
 	margin-bottom: 0px;
 	color: white;
 	padding: 10px 0;
+	font-size: 10px;
+}
+footer p a {
+	color: #42776a8a;
 }
