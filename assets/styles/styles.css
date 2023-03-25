@@ -580,6 +580,7 @@ body {
 .right {
 	background-color: #eee;
 	width: 60%;
+	padding: 0 12px;
 }
 
 .left h1 {
@@ -603,6 +604,7 @@ body {
 	margin-left: 15px;
 	margin-right: 10px;
 	margin-bottom: 12px;
+	line-height: 1.6;
 }
 .about-img {
 	vertical-align: middle;
